@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Shaswath31/Media/blob/main/Shaswath%20Github%20header.png?raw=true" alt="Shaswath Header" width="100%">
+</p>
+
 ## Hi there, I'm Shaswath! 👋
 
 I am a Software Engineer with over 3 years of experience, specializing in building robust, high-scale backend systems. My expertise lies in bridging the gap between application code and infrastructure, specifically targeting Platform Engineering and High-Scale Backend Development.
